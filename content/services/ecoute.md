@@ -10,6 +10,6 @@ rendez-vous au local !).
 
 ![](/images/undraw_conversation_h12g.svg)
 
-Gérard et Jean, nos écoutant⋅e⋅s vous proposent des temps d’écoute
+Camille, notre écoutante, ainsi que Gérard et Jean, nos écoutants, vous proposent des temps d’écoute
 pour vous offrir la possibilité de parler sereinement en entretien particulier
 et confidentiel sans crainte du jugement.
