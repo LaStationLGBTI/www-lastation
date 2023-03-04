@@ -18,7 +18,6 @@ date: 2019-11-28T17:12:57+01:00
 | [Festibad](http://festibad.org/) | Association de badminton LGBT, organise son tournoi annuel ouvert à tou-te-s pendant la semaine des Visibilités. |
 | [Festigays](http://www.festigays.net/) | Collectif LGBT organisant la Marche et la Semaine des Visibilités à Strasbourg. |
 | [HES](https://www.facebook.com/HES-Strasbourg-191284717578050/) | Homosexualité et Socialisme |
-| [Hêtre](https://asso-hetre.fr/) | Centre LGBTI de Mulhouse et ses environs. Accueil, écoute, accompagnement pour les LGBTQI |
 | [La Nouvelle Lune](http://lanouvellelune.org/) | La nouvelle lune participe à la lutte contre les discriminations et atteintes aux droits des femmes et des lesbiennes. Elle organise des rencontres conviviales, culturelles, militantes... Elle est ouverte à toute personne se définissant comme femme et intéressée par l’association. Sa gestion, de type collégial, permet de valoriser les motivations et l’implication du plus grand nombre d’adhérentes. |
 | [Pélicanto](http://www.pelicanto.org/) | Chœur gay et lesbien et leurs amis d’Alsace. |
 | [Phare du Rhin](https://lepharedurhin.com/fr/) | Association étudiante œuvrant dans l’action sociale et culturelle, proposant des cours de français et des permanences administratives d'accueil. |
@@ -36,8 +35,8 @@ le fontionnement de l'association, l'eurométropole a également soutenu
 la création du lieu.
 
 La Station reçoit également des soutiens ciblés pour ses
-différentes actions : l'accueil, les groupes de parole, certains
-évènements...
+différentes actions : l'accueil, les groupes de parole, les interventions en milieu scolaire, certains
+événements...
 
 # Nos partenaires culturels
 
