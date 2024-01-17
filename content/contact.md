@@ -5,11 +5,20 @@ layout: contact
 menu: 'main'
 ---
 
-La Station est située derrière la
-cathédrale, au 7 rue des écrivains, 67000 Strasbourg.
+La Station vous accueille tous les jours du Mardi au Samedi, derrière la
+cathédrale, au 7 rue des écrivains, 67000 Strasbourg, aux horaires suivants :
 
-L'accueil habituel est temporairement fermé. 
+| Jour          | Ouverture                     |
+| ------------- | ----------------------------- |
+| Lundi         | Fermé                         |
+| Mardi         | 16:00 – 20:00                 |
+| Mercredi      | 16:00 – 20:00                 |
+| Jeudi         | 16:00 – 20:00                 |
+| Vendredi      | 16:00 – 20:00                 |
+| Samedi        | 10:00 - 13:00 14:00 – 19:00   |
+| Dimanche      | Fermé                         |
 
-Les événements prévus (les permanences juridiques tous les premiers samedis du mois, les cafés de la Nouvelle Lune, cafés aro/ace, cafés 45+, cafés transfem) sont maintenus. Les pôles juridique, écoute et sensibilisation continuent leurs activités. 
 
-Public access to La Station is temporarily closed. Legal support meetings will still take place every month (first Saturday of each month), as well as the recurrent events listed above. 
+Les événements prévus (les permanences juridiques tous les premiers samedis du mois, les cafés de la Nouvelle Lune, cafés aro/ace, cafés 45+ & friends, cafés transfem) peuvent parfois se tenir en dehors des horaires d'ouverture. 
+
+Public access to La Station is open at the hours specified above. Legal support meetings take place on the first Saturday of each month. 

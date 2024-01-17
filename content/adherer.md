@@ -15,7 +15,7 @@ publique : pensez à faire un don défiscalisé !
 ## Devenir adhérent·e
 
 En adhérant à La Station, vous aurez accès aux services du centre
-(café associatif, médiathèque, atelier taï chi...), vous aurez
+(café associatif, médiathèque, aide juridique aux personnes migrantes...), vous aurez
 droit de vote à l'assemblée générale, et vous recevrez toutes les
 infos relatives au centre.
 
@@ -40,6 +40,11 @@ bulletin ou envoyez-nous votre bulletin rempli et scanné à
 Dans ce cas, vous pourrez régler par virement bancaire à La
 Station: IBAN : FR76 1027 8010 0100 0208 5870 140 - CCM - Strasbourg -
 Saint-Jean (BIC : CMCIFR2A)
+
+### PAR HELLO ASSO
+
+Toute la procédure est également disponible sur Hello Asso pour encore plus de facilité.
+<https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/adhesions/adhesion-cotisation-2023-2024>
 
 ## Faire un don
 
@@ -74,7 +79,7 @@ vous pourrez soutenir vos valeurs !
 
 ### LA PLUS ALTERNATIVE : DON DE MATERIEL
 
-Vous redécorez votre salon? Vous déménagez? Une étagère, une
-télé, une chaise, de la vaisselle, des livres... toutes les jolies
+Vous redécorez votre salon ? Vous déménagez ? Une étagère, une
+télé, une chaise, de la vaisselle, des livres... Toutes les jolies
 choses peuvent servir à La Station qui travaille toujours à
 améliorer son espace d'accueil et de convivialité !
