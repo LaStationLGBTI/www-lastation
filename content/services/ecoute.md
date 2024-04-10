@@ -14,8 +14,8 @@ La mission du pôle Écoute est de vous permettre d’aborder ce que vous souhai
 
 Camille, notre écoutante, ainsi que Gérard et Jean, nos écoutants, sont disponibles uniquement sur rendez-vous.
 
-**Envie d'en savoir plus ?** 
+## Envie d'en savoir plus ? 
 
-Vous pouvez envoyer un mail à ecoute@lastation-lgbti.eu, nous rejoindre sur Discord ou venir au local pour avoir plus d’information à ce sujet.
+Vous pouvez envoyer un mail à ecoute@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local pour avoir plus d’information à ce sujet.
 
 Vous pouvez aussi directement demander un rendez-vous à Camille, Gérard ou Jean.
