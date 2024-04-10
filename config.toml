@@ -43,7 +43,7 @@ theme = "hugo-serif-theme"
       weight = 3
 
   [[menu.main]]
-  	  name = "Les permanences"
+  	  name = "Les pôles"
 	  url = "/services/"
 	  weight = 4
 
