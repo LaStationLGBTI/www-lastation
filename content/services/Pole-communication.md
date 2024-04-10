@@ -2,7 +2,7 @@
 title: "Pôle Communication"
 draft: false
 featured: true
-weight: 2
+weight: 7
 ---
 Valoriser et diffuser les informations
 
