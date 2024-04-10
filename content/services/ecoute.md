@@ -1,5 +1,5 @@
 ---
-title: "Pole Ecoute"
+title: "Pôle Ecoute"
 draft: false
 featured: true
 weight: 2
