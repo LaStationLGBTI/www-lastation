@@ -11,5 +11,6 @@ Le pôle Communication a pour mission la diffusion des informations en lien avec
 
 Le pôle s'occupe notamment des réseaux sociaux de l'association et participe aux autres actions de communication de La Station LGBTI+.
 
-Envie d'en savoir plus ? 
+**Envie d'en savoir plus ?** 
+
 Vous pouvez envoyer un mail à communication@lastation-lgbti.eu, nous rejoindre sur Discord ou venir au local !
