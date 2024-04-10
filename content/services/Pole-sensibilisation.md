@@ -1,5 +1,5 @@
 ---
-title: "Pôle sensibilisation"
+title: "Pôle Sensibilisation"
 draft: false
 featured: true
 weight: 2
