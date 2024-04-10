@@ -1,8 +1,8 @@
 ---
-title: "Pole accueil"
+title: "Pole Accueil"
 draft: false
 featured: true
-weight: 3
+weight: 0
 ---
 
 Répondre à vos questions, vous orienter au bon endroit
