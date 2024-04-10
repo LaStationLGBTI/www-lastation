@@ -12,6 +12,6 @@ Les locaux de La Station permettent de placer la culture, l’art et la convivia
 
 Les expositions sont mises en lumière par un vernissage qui permet à l’artiste ou aux associations d’entrer en contact avec les adhérent·e·s du Centre mais aussi avec un public plus large. Cette dynamique attire désormais un public élargi, curieux de découvrir cette fusion entre expression artistique et militantisme.  
 
-**Envie d'en savoir plus ?** 
+## Envie d'en savoir plus ? 
 
-Vous pouvez envoyer un mail à exposition@lastation-lgbti.eu, nous rejoindre sur Discord ou venir au local !
+Vous pouvez envoyer un mail à exposition@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local !
