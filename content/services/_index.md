@@ -3,7 +3,7 @@ title: 'Les pôles'
 intro_image: images/undraw_coolness_dtmq.svg
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
-menu: 'main'
+
 ---
 
 # Les pôles
