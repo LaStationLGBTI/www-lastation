@@ -14,3 +14,9 @@ $link-hover-decoration: underline;
 // Fonts
 $font-family-base: Helvetica, Arial, sans-serif, -apple-system;
 $font-family-heading: 'DM Serif Display', serif, -apple-system;
+
+// Strong
+strong {
+  font-weight: bold; //
+  color: $primary;
+}
