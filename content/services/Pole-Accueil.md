@@ -1,5 +1,5 @@
 ---
-title: "Pole Accueil"
+title: "Pôle Accueil"
 draft: false
 featured: true
 weight: 0
