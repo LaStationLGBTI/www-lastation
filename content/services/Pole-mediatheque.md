@@ -12,6 +12,6 @@ Le pôle Médiathèque s'occupe de mettre en valeur le fond documentaire de La S
 
 La médiathèque possède des œuvres en français, mais aussi en allemand, espagnol, anglais, turc, russe... Son rôle est également de diversifier son catalogue, les bénévoles sont à l'écoute de vos demandes et recommandations.
 
-**Envie d'en savoir plus ?**
+## Envie d'en savoir plus ?
 
-Vous pouvez envoyer un mail à mediatheque@lastation-lgbti.eu, nous rejoindre sur Discord ou venir au local !
+Vous pouvez envoyer un mail à mediatheque@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local !
