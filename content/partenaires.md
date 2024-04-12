@@ -26,6 +26,7 @@ date: 2019-11-28T17:12:57+01:00
 | [PRISME](https://www.facebook.com/Association_PRISME-103870901535693/) | Professionnel-le-s Intersectionnel-le-s de la Santé Mentale Engagé-e-s. Association de professionnel-le-s du domaine de la santé mentale, qui proposent des groupes de parole et des formations en lien avec des thématiques LGBT+. |
 | [SOGI Sexual Orientation and Gender Identity Unit](http://www.coe.int/t/dg4/lgbt/default_fr.asp) | Section LGBT du Conseil de l'Europe. |
 | [SOS Hepatites](http://alsace.lorraine.soshepatites.fr/) | Association de lutte, de soutien et d'accompagnement des malades atteint-e-s d'hépatites et de maladies du foie |
+| [Sing'lées](https://singlees.org/#home) | Choeur arc-en-ciel Strasbourg |
 
 ---
 
