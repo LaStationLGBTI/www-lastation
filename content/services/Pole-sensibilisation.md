@@ -6,6 +6,7 @@ weight: 3
 ---
 Eduquer aux questions LGBTQIA+
 
+![](/images/undraw_pride_y0te.svg)
 
 Le pôle Sensibilisation a pour objectif d'éduquer le grand public aux enjeux LGBTQIA+. À cette fin, iels organisent régulièrement des interventions en milieu scolaire (de la 4e à la Terminale) et des formations pour adultes. Ces temps privilégiés sont l'occasion de donner des définitions claires, des informations exactes et des réponses franches aux personnes méconnaissant la communauté queer, afin de les rendre sensibles aux discriminations les entourant.
 
