@@ -6,6 +6,8 @@ weight: 7
 ---
 Valoriser et diffuser les informations
 
+![](/images/undraw_mailbox_re_dvds.svg)
+
 
 Le pôle Communication a pour mission la diffusion des informations en lien avec La Station LGBTI+. Son rôle est de diffuser les événements, valoriser les avancées politiques et les actions menées par l’association et permettre aux responsables de clarifier les positions de l'association sur les sujets pertinents.
 
