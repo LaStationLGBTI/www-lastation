@@ -7,6 +7,7 @@ weight: 4
 
 Mettre en valeur les ressources documentaires de La Station LGBTI+
 
+![](/images/undraw_reading_time_re_phf7.svg)
 
 Le pôle Médiathèque s'occupe de mettre en valeur le fond documentaire de La Station LGBTI+ : livres, magazines, films... Vous pouvez les consulter lors de votre visite et les emprunter lors de la permanence hebdomadaire tenue par les bénévoles. C'est tous les mercredi, de 17h à 19h dans nos locaux !
 
