@@ -7,6 +7,8 @@ weight: 5
 
 Mettre en valeur les artistes LGBTQIA+ et rendre l'art accessible
 
+![](/images/undraw_art_museum_-8-or4.svg)
+
 
 Les locaux de La Station permettent de placer la culture, l’art et la convivialité au service de la promotion de l’égalité et de la lutte contre les discriminations. Les missions du pôle exposition sont de présenter les projets et œuvres d’artistes et d'organisations adhérant aux valeurs de La Station en favorisant l'ouverture vers la cité. Nous sommées particulièrement engagées dans le soutien aux artistes LGBTI+.
 
