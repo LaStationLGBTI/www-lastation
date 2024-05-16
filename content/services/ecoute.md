@@ -10,9 +10,9 @@ Une écoute attentive à votre personne et/ou à votre situation, sur rendez-vou
 ![](/images/undraw_conversation_h12g.svg)
 
 
-La mission du pôle Écoute est de vous permettre d’aborder ce que vous souhaitez lors d'un rendez-vous d'écoute bienveillante et sans jugement. Ces rendez-vous confidentiels et individuels s'adressent aussi bien aux personnes LGBTQIA+ qu'à leurs proches qui auraient des questions ou un besoin de s'exprimer à propos de sujets qui les concernent.
+Le pôle Ecoute de la Station, c'est des rendez-vous gratuits et confidentiels, pour les personnes LGBTQIA+ qui auraient besoin de parler, ou pour leurs proches qui souhaiteraient mieux les comprendre.
 
-Camille, notre écoutante, ainsi que Gérard et Jean, nos écoutants, sont disponibles uniquement sur rendez-vous.
+Camille, Gérard, Maria et Jean, nos écoutant·e·s sont disponibles sur rendez-vous. Si vous souhaitez parler à un·e écoutant·e concerné·e par des enjeux spécifiques (identités trans, misogynie...), vous pouvez le préciser dans la première prise de contact !
 
 ## Envie d'en savoir plus ? 
 
