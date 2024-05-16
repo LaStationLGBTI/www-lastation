@@ -16,6 +16,6 @@ Camille, Gérard, Maria et Jean, nos écoutant·e·s sont disponibles sur rendez
 
 ## Envie d'en savoir plus ? 
 
-Vous pouvez envoyer un mail à diffusion_pole.ecoute@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local pour avoir plus d’information à ce sujet.
+Vous pouvez envoyer un mail à diffusion_pole.ecoute@lastation-lgbti.eu, contact@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local pour avoir plus d’information à ce sujet.
 
-Vous pouvez aussi directement demander un rendez-vous à Camille, Gérard ou Jean.
+Vous pouvez aussi directement demander un rendez-vous à Camille, Gérard, Maria ou Jean.
