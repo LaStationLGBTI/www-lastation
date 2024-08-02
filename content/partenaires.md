@@ -12,6 +12,7 @@ date: 2019-11-28T17:12:57+01:00
 | [Amnesty International France](https://www.amnesty.fr/pres-de-chez-vous?address=67000) | Organisation internationale de défense des droits humains |
 | [Antenne Inclusive Saint-Guillaume](https://www.facebook.com/antenneinclusive) | Créée en 2016, l'Antenne inclusive, ancrée dans la paroisse Saint Guillaume à Strasbourg, propose des temps forts autour des questions LGBTI (conférences, formations), ainsi que des temps de prière, de réflexion et de convivialité. |
 | [AGPL](https://www.apgl.fr/fr/antennes/grand-est) | Association des Parents et Futurs parents Gays et Lesbiens. |
+| [Les Audacieuses & les Audacieux](https://audacieusement.org/) | Depuis 2017, l'association Les Audacieuses & Les Audacieux oeuvre pour améliorer la qualité de vie des personnes en situation d'isolement social renforcé, en particulier des senoirs LGBTI+ et des senoirs vivant avec le VIH |
 | [ARCTS](https://arcts.fr/) | Amicale Radicale des Cafés Trans de Strasbourg |
 | [COREVIH](https://www.corevih-grandest.fr/) | Coordination Régionale de lutte contre le Virus de l'Immunodéficience Humaine. Le COREVIH est une coordination de tous les acteurs de la lutte contre le SIDA qui assurent collectivement en région la prise en charge des personnes séropositives et la lutte contre l'infection à VIH en général. |
 | [David et Jonathan](https://www.davidetjonathan.com/groupe-de-strasbourg/) | Mouvement homosexuel chrétien, ouvert à toutes et tous. |
