@@ -44,7 +44,7 @@ Saint-Jean (BIC : CMCIFR2A)
 ### PAR HELLO ASSO
 
 Toute la procédure est également disponible sur Hello Asso pour encore plus de facilité.
-<https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/adhesions/adhesion-cotisation-2023-2024>
+<https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/adhesions/adhesion-cotisation-2024-2025>
 
 ## Faire un don
 
