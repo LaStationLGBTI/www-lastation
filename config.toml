@@ -43,14 +43,19 @@ theme = "hugo-serif-theme"
       weight = 3
 
   [[menu.main]]
+      name = "Faire un don"
+      url = "https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/formulaires/1"
+      weight = 4
+
+  [[menu.main]]
   	  name = "Les pôles"
 	  url = "/services/"
-	  weight = 4
+	  weight = 5
 
   [[menu.main]]
   	  name = "Partenaires"
 	  url = "/partenaires/"
-	  weight = 5
+	  weight = 6
 
   # Footer Menu
   [[menu.footer]]

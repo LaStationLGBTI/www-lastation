@@ -60,10 +60,15 @@ plusieurs possibilités :
 
 ### LA PLUS COMMUNE : FAIRE UN DON DEFISCALISE
 
-Envoyez un chèque à l'ordre de La Station, 7 rue des Ecrivains,
+Vous pouvez faire un don facilement et directement sur Hello Asso par carte bancaire :
+<https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/formulaires/1>
+
+Vous pouver aussi envoyer un chèque à l'ordre de La Station, 7 rue des Ecrivains,
 67000 Strasbourg.
 
-Faites un don par virement bancaire :  IBAN : FR76 1027 8010 0100 0208 5870 140 -
+Enfin, vous pouvez faire un don par virement bancaire :
+
+IBAN : FR76 1027 8010 0100 0208 5870 140 -
 CCM - Strasbourg - Saint-Jean (BIC : CMCIFR2A)
 
 ### LA PLUS ENGAGEE : LE LEGS
