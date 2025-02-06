@@ -15,4 +15,4 @@ Le pôle s'occupe notamment des réseaux sociaux de l'association et participe a
 
 ## Envie d'en savoir plus ?
 
-Vous pouvez envoyer un mail à communication@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local !
+Vous pouvez envoyer un mail à communication@lastation-lgbti.eu ou venir au local !

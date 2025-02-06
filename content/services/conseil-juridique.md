@@ -19,7 +19,7 @@ Chaque premier samedi du mois, de 14h à 16h, le pôle se réunit à La Station 
 
 ## Envie d'en savoir plus ?
 
-Vous pouvez envoyer un mail à juridique@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local !
+Vous pouvez envoyer un mail à juridique@lastation-lgbti.eu ou venir au local !
 
 **English** 
 The Legal Section assists people who need it with their legal affairs. Their main activity is supporting LGBTI asylum seekers.
@@ -32,4 +32,4 @@ Every first Saturday of the month, from 2 to 4 p.m., the center meets with asylu
 
 ## Looking for more information?
 
-You can send an e-mail to juridique@lastation-lgbti.eu, [join us on Discord](https://discord.gg/hMjAqkVDRh) or come to visit us!
+You can send an e-mail to juridique@lastation-lgbti.eu or come to visit us!

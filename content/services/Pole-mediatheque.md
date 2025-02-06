@@ -15,4 +15,4 @@ La médiathèque possède des œuvres en français, mais aussi en allemand, espa
 
 ## Envie d'en savoir plus ?
 
-Vous pouvez envoyer un mail à mediatheque@lastation-lgbti.eu, [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local !
+Vous pouvez envoyer un mail à mediatheque@lastation-lgbti.eu ou venir au local !

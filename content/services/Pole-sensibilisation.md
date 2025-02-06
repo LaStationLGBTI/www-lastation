@@ -4,7 +4,7 @@ draft: false
 featured: true
 weight: 3
 ---
-Eduquer aux questions LGBTQIA+
+Éduquer aux questions LGBTQIA+
 
 ![](/images/undraw_pride_y0te.svg)
 
@@ -14,4 +14,4 @@ Les bénévoles du pôle militent aussi par d’autres moyens ; en siégeant dan
 
 ## Envie d'en savoir plus ?
 
-Vous pouvez envoyer un mail à sensibilisation@lastation-lgbti.eu , [nous rejoindre sur Discord](https://discord.gg/hMjAqkVDRh) ou venir au local ! Toute personne intéressée est bienvenue aux réunions mensuelles du pôle Sensibilisation.
+Vous pouvez envoyer un mail à sensibilisation@lastation-lgbti.eu ou venir au local ! Toute personne intéressée est bienvenue aux réunions mensuelles du pôle Sensibilisation.
