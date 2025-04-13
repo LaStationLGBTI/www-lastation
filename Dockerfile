@@ -8,7 +8,7 @@ COPY . /src
 # Fix theme issue
 RUN grep -r --color=none .Site.IsServer /src/themes/hugo-serif-theme/ | sed 's/:.*//' | sort -u | while read f; do sed -i 's/.Site.IsServer/hugo.IsServer/g' $f; done
 # Build website
-RUN hugo --minify --enableGitInfo
+RUN hugo --minify
 
 #####################################################################
 #                            Final Stage                            #
