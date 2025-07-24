@@ -20,9 +20,9 @@ date: 2019-11-28T17:12:57+01:00
 | [Festibad](http://festibad.org/) | Association de badminton LGBT, organise son tournoi annuel ouvert à tou-te-s pendant la semaine des Visibilités. |
 | [Festigays](http://www.festigays.net/) | Collectif LGBT organisant la Marche et la Semaine des Visibilités à Strasbourg. |
 | [HES](https://www.facebook.com/HES-Strasbourg-191284717578050/) | Homosexualité et Socialisme |
+| [Intrépides Alsace](https://www.greypride.fr/) | Les Intrépides Alsace sont la branche locale de GreyPride, ssociation destinée à lutter contre l’invisibilité des personnes LGBTQIA+ vieillissantes.
 | [La Nouvelle Lune](http://lanouvellelune.org/) | La nouvelle lune participe à la lutte contre les discriminations et atteintes aux droits des femmes et des lesbiennes. Elle organise des rencontres conviviales, culturelles, militantes... Elle est ouverte à toute personne se définissant comme femme et intéressée par l’association. Sa gestion, de type collégial, permet de valoriser les motivations et l’implication du plus grand nombre d’adhérentes. |
 | [L'Autre Cercle Alsace](https://autrecercle.org/alsace/) | L’Autre Cercle agit en faveur des personnes LGBT+ dans le monde de l'entreprise.|
-| [Intrépides Alsace](https://www.greypride.fr/) | Les Intrépides Alsace sont la branche locale de GreyPride, ssociation destinée à lutter contre l’invisibilité des personnes LGBTQIA+ vieillissantes.
 | [Pélicanto](http://www.pelicanto.eu/) | Chœur LGBTQIA+ militant d'Alsace. |
 | [Phare du Rhin](https://www.instagram.com/le_phare_du_rhin) | Association étudiante œuvrant dans l’action sociale et culturelle, proposant des cours de français et des permanences administratives d'accueil. |
 | [PRISME](https://www.facebook.com/Association_PRISME-103870901535693/) | Professionnel-le-s Intersectionnel-le-s de la Santé Mentale Engagé-e-s. Association de professionnel-le-s du domaine de la santé mentale, qui proposent des groupes de parole et des formations en lien avec des thématiques LGBT+. |
