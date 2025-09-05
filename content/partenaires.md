@@ -17,10 +17,10 @@ date: 2019-11-28T17:12:57+01:00
 | [COREVIH](https://www.corevih-grandest.fr/) | Coordination Régionale de lutte contre le Virus de l'Immunodéficience Humaine. Le COREVIH est une coordination de tous les acteurs de la lutte contre le SIDA qui assurent collectivement en région la prise en charge des personnes séropositives et la lutte contre l'infection à VIH en général. |
 | [David et Jonathan](https://www.davidetjonathan.com/groupe-de-strasbourg/) | Mouvement homosexuel chrétien, ouvert à toutes et tous. |
 | [European Center for Human Rights (ECHR)](https://www.facebook.com/echr.strasbourg)| Les objectifs de l'ECHR sont d'assurer, surveiller et protéger les droits humains dans l'Union Européenne. |
-| [Festibad](http://festibad.org/) | Association de badminton LGBT, organise son tournoi annuel ouvert à tou-te-s pendant la semaine des Visibilités. |
+| [Festibad](http://festibad.org/) | Association de badminton LGBT, organise son tournoi annuel ouvert à tou⋅te⋅s pendant la semaine des Visibilités. |
 | [Festigays](http://www.festigays.net/) | Collectif LGBT organisant la Marche et la Semaine des Visibilités à Strasbourg. |
 | [HES](https://www.facebook.com/HES-Strasbourg-191284717578050/) | Homosexualité et Socialisme |
-| [Intrépides Alsace](https://www.greypride.fr/) | Les Intrépides Alsace sont la branche locale de GreyPride, association destinée à lutter contre l’invisibilité des personnes LGBTQIA+ vieillissantes.
+| [Les Intrépides de GreyPRIDE](intrepides-greypride) | Les *Intrépides de GreyPRIDE* sont la branche alsacienne de l'association *GreyPRIDE*, association destinée à lutter contre l’invisibilité des personnes LGBTQIA+ vieillissantes.
 | [La Nouvelle Lune](http://lanouvellelune.org/) | La nouvelle lune participe à la lutte contre les discriminations et atteintes aux droits des femmes et des lesbiennes. Elle organise des rencontres conviviales, culturelles, militantes... Elle est ouverte à toute personne se définissant comme femme et intéressée par l’association. Sa gestion, de type collégial, permet de valoriser les motivations et l’implication du plus grand nombre d’adhérentes. |
 | [L'Autre Cercle Alsace](https://autrecercle.org/alsace/) | L’Autre Cercle agit en faveur des personnes LGBT+ dans le monde de l'entreprise.|
 | [Pélicanto](http://www.pelicanto.eu/) | Chœur LGBTQIA+ militant d'Alsace. |
