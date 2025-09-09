@@ -9,7 +9,7 @@ Les **Intrépides de GreyPRIDE** sont l'antenne régionale d'Alsace.
 
 ![Logo GreyPRIDE](/images/logo-greypride.jpg)
 
-Depuis sa création en 2025, l'association GreyPRIDE s'est fixée 3 grandes missions :
+Depuis sa création en 2015, l'association GreyPRIDE s'est fixée 3 grandes missions :
 
 ## 1. Une **mission politque** : porter un plaidoyer national sur les enjeux du vieillissement des seniors LGBTQIA+
 
@@ -28,8 +28,8 @@ Depuis 2024, GreyPRIDE a lancé un programme spécifique pour faire de l'*empowe
 
 De nombreux temps de **convivialité** et **d'activités** hebdomadaires, mensuelles, rencontres thématiques sont organisés : un aspect important d'accès/maintien à la culture est privilégié, et un soin particulier est porté aux sujets d'activité physique.
 
-## 4. Habitat
+## Habitat
 
-L'association porte un axe de réflexion et d'action historique dès 2020 à Paris, avec notamment une expérimentation d'un appartement de colocation pour 5 membres.
+L'association porte de plus un axe de réflexion et d'action historique dès 2020 à Paris, avec notamment une expérimentation d'un appartement de colocation pour 5 membres.
 
 La réflexion actuelle s'oriente vers de nouvelles perspectives d'habitat (en lien avec les associations, la ville de Strasbourg et l'Eurométropole) qui prennent mieux en compte les capacités et aspirations profondes des résident⋅es.
