@@ -12,18 +12,15 @@ theme = "hugo-serif-theme"
   [params.logo]
     mobile = "images/logo.jpg"
     standard  = "images/logo.jpg"
-    alt = "La Station LGBTI"
+    alt = "La Station LGBTQIA+"
 
   [params.homepage_meta_tags]
     meta_description = "Centre Lesbien Gay Bi Trans Intersexe"
-    meta_og_title = "La Station LGBTI"
+    meta_og_title = "La Station LGBTQIA+"
     meta_og_type = "website"
     meta_og_url = "https://www.lastation-lgbti.eu"
     meta_og_image = "https://www.lastation-lgbti.eu/images/logo.jpg"
     meta_og_description = "Centre Lesbien Gay Bi Trans Intersexe"
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@LaStation_LGBTI"
-    meta_twitter_creator = "@LaStation_LGBTI"
 
 [menu]
   # Main Menu
@@ -77,3 +74,8 @@ theme = "hugo-serif-theme"
     name = "Instagram"
 	url = "https://www.instagram.com/la_station_lgbti/"
 	  weight = 4
+
+  [[menu.footer]]
+    name = "Mentions légales"
+    url = "/mentions-legales"
+    weight = 5
