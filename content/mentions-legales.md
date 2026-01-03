@@ -16,7 +16,7 @@ L'association est représentée par Flora GIROS et Gerald SCHLEMMINGER, co-prés
 
 # Responsables de publication
 
-Flora GIROS et Gerald SCHLEMMINGER, co-présidentes de l'association La Station LGBTQIA+
+Flora GIROS et Gerald SCHLEMMINGER, co-président·es de l'association La Station LGBTQIA+
 
 # Hébergeur
 
@@ -24,4 +24,4 @@ Le site est hébergé au sein même de l'association, au 7 Rue des Écrivains, 6
 
 # Données personnelles
 
-Comme pour tout service de communication au public en ligne et conformément à la législation française, l'association blog conserve, pendant un an, un historique des connexions (comprenant la date, l’heure, l’adresse IP, la provenance, la signature du logiciel client (user-agent) et la ressource ajoutée, modifiée ou supprimée) des utilisateurices. Ces données ne sont en aucun cas exploitées pour vous identifier ou vous tracer et ne sont ni diffusées ni vendues ni cédées à des tiers mais peuvent être réclamées par une autorité judiciaire.
+Comme pour tout service de communication au public en ligne et pour être en conformité avec la législation française et européenne, l'association blog conserve, par traitement informatisé, pendant un an, un historique des connexions (comprenant la date, l’heure, l’adresse IP, la provenance, la signature du logiciel client (user-agent) et la ressource ajoutée, modifiée ou supprimée) des utilisateurices. Ces données ne sont en aucun cas exploitées pour vous identifier ou vous tracer et ne sont ni diffusées ni vendues ni cédées à des tiers mais peuvent être réclamées par une autorité judiciaire. Conformément au RGPD, vous avez un droit d'accès, de rectification et de suppression de vos données, dans la limite de nos obligations légales de conservation. Le point de contact pour exercer vos droits sont Flora GIROS et Gerald SCHLEMMINGER, co-président·es de l'association La Station LGBTQIA+ : [contact@lastation-lgbti.eu](mailto:contact@lastation-lgbti.eu).
