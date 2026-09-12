@@ -1,4 +1,6 @@
 email: 'contact@lastation-lgbti.eu'
 phone: '+33 (0)9 50 51 13 29'
 mobile: '🙅'
-adherer: 'https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/adhesions/adhesion-cotisation-2025-2026'
+adherer:
+  campagne: 2026-2027
+  link: 'https://www.helloasso.com/associations/la-station-centre-lgbti-strasbourg-alsace/adhesions/adhesion-2026-2027'
